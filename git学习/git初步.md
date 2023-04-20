@@ -9,7 +9,6 @@ git rm 删掉
 git rm --cache 保留在目录中
 
 git commit 提交修改
-![[Pasted image 20230420145329.png]]
 
 git commit -m ‘log’
 git reset head～ --soft 取消本次提交
@@ -18,9 +17,9 @@ git reset head～ --soft 取消本次提交
 git status
 git diff 查看文件具体修改
 git log 查看历史提交 --pretty 美化输出
-![[Pasted image 20230420145925.png]]
+
 生成ssh密钥
-![[Pasted image 20230420152132.png]]
+
 git remote add orgin 链接远程仓库
 git remote rename orgin origin 远程仓库名字修改
 
