@@ -14,19 +14,16 @@ git commit -m ‘log’
 git reset head～ --soft 取消本次提交
 
 查看文件状态
+
 git status
 git diff 查看文件具体修改
 git log 查看历史提交 --pretty 美化输出
-
-生成ssh密钥
 
 git remote add orgin 链接远程仓库
 git remote rename orgin origin 远程仓库名字修改
 
 推送代码
 git push origin master master是分支
-
-
 
 分支
 git log 可以看分支
@@ -42,7 +39,6 @@ git merge xxxx
 
 删除分支
 git branch -d dev
-
 
 储藏功能
 stash
