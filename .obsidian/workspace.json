@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "c19cb1dbfec53745",
+    "type": "split",
+    "children": [
+      {
+        "id": "1682c290730d53fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "971102c6bbdbb85e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "126240c0f7232bac",
+    "type": "split",
+    "children": [
+      {
+        "id": "8769f42079a288f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "295c137d0b28e8c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "330f3c7ee2cf4903",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3144d0bc86f9a5af",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be3c9346119589ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "4047fdd867df64d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0876b38d533e6720",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3f7b9caa60b4ce9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cabed53debc317d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7a227dd081851bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "971102c6bbdbb85e",
+  "lastOpenFiles": [
+    "git学习/git初步.md",
+    "git学习/Pasted image 20230420145329.png",
+    "git学习/Pasted image 20230420152132.png",
+    "git学习/Pasted image 20230420145925.png",
+    "git学习",
+    "未命名",
+    "前端"
+  ]
+}
