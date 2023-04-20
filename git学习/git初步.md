@@ -13,19 +13,15 @@ git commit 提交修改
 git commit -m ‘log’
 git reset head～ --soft 取消本次提交
 
-查看文件状态
-
-git status
+git status 查看文件状态
 git diff 查看文件具体修改
 git log 查看历史提交 --pretty 美化输出
 
 git remote add orgin 链接远程仓库
 git remote rename orgin origin 远程仓库名字修改
 
-推送代码
-git push origin master master是分支
+git push origin master master是分支 推送代码
 
-分支
 git log 可以看分支
 git branch --list 查看分支
 git branch xxx 新建分支
@@ -34,14 +30,12 @@ git checkout xxx 切换分支
 gitcommmit -am 
 git checkout -b  xxx新建并且切换
 
-合并分支
-git merge xxxx
 
-删除分支
-git branch -d dev
+git merge xxxx 合并分支
 
-储藏功能
-stash
+git branch -d dev 删除分支
+
+stash 储藏功能
 git stash
 git stash apply 恢复
 git stash list
@@ -49,8 +43,8 @@ git stash apply stash@{2}
 git checkout -- test 恢复没有修改的状态
 git stash pop 恢复最后一次的stars后删掉记录
 
-重置reset
-git reset head～ --soft
+
+git reset head～ --soft 重置reset
 git reset head～ --hard 彻底毁掉之前
 
 rebase 搬家 提交
