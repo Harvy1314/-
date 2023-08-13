@@ -1,4 +1,4 @@
-
+```git
 git init 初始化
 
 git clone 克隆他人项目
@@ -50,3 +50,7 @@ git reset head～ --hard 彻底毁掉之前
 rebase 搬家 提交
 git rebase a 把b搬到a
 rebase -i 交互操作
+```
+
+
+
