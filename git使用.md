@@ -92,7 +92,6 @@ $ git push -u origin master
 # 每次提交后，只要有必要就可以使用命令推送最新修改
 $ git push origin master
 
-
 # 更简单的办法，远程网站建立一个空项目,克隆到本地
 $ git clone git@github.com:michaelliao/gitskills.git
 ```
