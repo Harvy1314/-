@@ -37,7 +37,7 @@ conda env export > enviroment.yml
 conda env create -f environment.yml
 # 包管理
 # 查看所有
-cond list
+conde list
 
 # pycharm添加地址
 /opt/homebrew/Caskroom/miniforge/base/envs/tf38
